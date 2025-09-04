@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1Git.Models
 {
-    internal class Usuario
+    internal class Actividad
     {
         string Nombre { get; set; }
-        string Apellido { get; set; }
-        DataTime FechaNacimiento { get; set; }
+        
     }
 }
