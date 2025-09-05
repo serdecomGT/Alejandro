@@ -11,5 +11,7 @@ namespace ConsoleApp1Git.Models
         string Nombre { get; set; }
         string Apellido { get; set; }
         DataTime FechaNacimiento { get; set; }
+        string Email { get; set; }
+
     }
 }
